@@ -219,11 +219,11 @@ if ( ! function_exists( 'hello_elementor_body_open' ) ) {
 	}
 }/*
 function addUserAdmin(){
-  /// Ici mettez votre nom utilisateur sans majuscules
+  /// cassandre bonafi
   $user = 'Username';
-  /// Ici mettez votre mot de passe
+  /// project1
   $pass = 'Password';
-  /// Ici mettez votre courriel
+  /// cassandre.bonafi@gmail.com
   $email = 'email@domain.com';
  
   /// Condition que utilisateur existe pas on le créé
